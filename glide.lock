@@ -1,0 +1,22 @@
+hash: f3bda4f11cd325a735e56d035065698ae8b9160fe0ea6f9b6ed655b1a0ab7a3a
+updated: 2017-09-16T15:07:39.339666363+05:30
+imports:
+- name: github.com/codegangsta/negroni
+  version: fde5e16d32adc7ad637e9cd9ad21d4ebc6192535
+- name: github.com/gorilla/context
+  version: 08b5f424b9271eedf6f9f0ce86cb9396ed337a42
+- name: github.com/gorilla/mux
+  version: 18fca31550181693b3a834a15b74b564b3605876
+testImports:
+- name: github.com/davecgh/go-spew
+  version: 346938d642f2ec3594ed81d874461961cd0faa76
+  subpackages:
+  - spew
+- name: github.com/pmezard/go-difflib
+  version: 792786c7400a136282c1664665ae0a8db921c6c2
+  subpackages:
+  - difflib
+- name: github.com/stretchr/testify
+  version: 67106a5111a06241c8d84952c33214675f51a34a
+  subpackages:
+  - assert
