@@ -1,0 +1,8 @@
+1. Create a route / to show up hello
+2. Add makefile to compile/run/test/lint...
+2. Read config from a file instead of hardcoding
+3. Add a mux var to read name and display "hello `name`" in "/" router.
+4. Add a middleware to authenticate all the route
+5. Add a logging middleware to log all the errors/info/fatals.
+6. Create another service to return a random number.
+7. Show number on / route got from service 2.
